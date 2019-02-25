@@ -1,0 +1,38 @@
+
+body{
+    background-image: url(../web_site/images/imge.png);
+}
+.container{
+    border: 10px white solid;
+    background-image: url(../web_site/images/imge.png);
+
+    padding: 0px;
+    margin: 50px;
+
+}
+.title{
+    border: 5px #fff solid;
+    
+}
+
+.section{
+    border: 5px #E8FBFB solid;
+}
+.date {
+    border-bottom: 4px steelblue solid;
+}
+#sec1,#sec2{
+    background-color: #C2E9E9;
+    height: 250px;
+    font-size: 14pt;
+   
+}
+#title{
+    background-color: #A8F0F0;;
+    text-align: right;
+}
+ img{
+    float: right; 
+    margin-left:15px;
+    /* margin-bottom: 100px; */
+}
